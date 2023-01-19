@@ -67,7 +67,7 @@ jika menggunakan putty, cukup input ip enp0s3, dan login seperti biasa
 Jika menggunakan CMD
 cukup ketikkan
 ```
-ssh user@ipaddress
+ssh user@ipenp0s3
 contoh
 ssh gezbiy@105.64.xx.xx
 ```
